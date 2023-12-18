@@ -1,0 +1,15 @@
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\bin\Debug\net6.0\Vinterprojektet.exe
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\bin\Debug\net6.0\Vinterprojektet.deps.json
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\bin\Debug\net6.0\Vinterprojektet.runtimeconfig.json
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\bin\Debug\net6.0\Vinterprojektet.dll
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\bin\Debug\net6.0\Vinterprojektet.pdb
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.csproj.AssemblyReference.cache
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.AssemblyInfoInputs.cache
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.AssemblyInfo.cs
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.csproj.CoreCompileInputs.cache
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.dll
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\refint\Vinterprojektet.dll
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.pdb
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\Vinterprojektet.genruntimeconfig.cache
+C:\Users\oskar.sjolin1\Documents\Vinterprojektet\Vinterprojektet\obj\Debug\net6.0\ref\Vinterprojektet.dll
